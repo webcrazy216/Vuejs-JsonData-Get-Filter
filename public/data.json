@@ -1,0 +1,202 @@
+
+[
+    {
+        "title": "Pratt Standard Cocktail Company True Kola Syrup, 16 OZ",
+        "image": "./assets/img/1.JPG",
+        "stars": 4.6,
+        "price": 18.99,
+        "prime": 1,
+        "subscribe": "Save 5% more with Subscribe & save",
+        "free": "FREE One-Day",
+        "video":0
+    },
+    {
+        "title":"Coca Cola Films",
+        "image":"./assets/img/2.JPG",
+        "stars":5,
+        "price":35,
+        "prime": 0,
+        "subscribe": "WHOLE FOODS MARKET FREE 2-hour delivery",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "Zevia Zero Calorie Energy Drink Naturally Sweetened Energy Drink, Kola , 12 Ounce(Pack of 12)  Packaging May Vary",
+        "image": "./assets/img/3.JPG",
+        "stars": 4,
+        "price": 32,
+        "prime": 1,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 3",
+        "image": "./assets/img/4.JPG",
+        "stars": 4.5,
+        "price": 33,
+        "prime": 1,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 1
+    },
+    {
+        "title": "product 4",
+        "image": "./assets/img/5.JPG",
+        "stars": 4.2,
+        "price": 34,
+        "prime": 1,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 5",
+        "image": "./assets/img/6.JPG",
+        "stars": 3.6,
+        "price": 35,
+        "prime": 0,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 6",
+        "image": "./assets/img/7.JPG",
+        "stars": 3.3,
+        "price": 25,
+        "prime": 0,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 1
+    },
+    {
+        "title": "Zevia Zero Calorie Energy Drink Naturally Sweetened Energy Drink, Kola , 12 Ounce(Pack of 12)  Packaging May Vary",
+        "image": "./assets/img/8.JPG",
+        "stars": 4,
+        "price": 32,
+        "prime": 1,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 8",
+        "image": "./assets/img/1.JPG",
+        "stars": 3.6,
+        "price": 89,
+        "prime": 0,
+        "subscribe": "save 5% more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 1
+    },
+    {
+        "title": "product 9",
+        "image": "./assets/img/2.JPG",
+        "stars": 3.5,
+        "price": 34,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "Pratt Standard Cocktail Company True Kola Syrup, 16 OZ",
+        "image": "./assets/img/1.JPG",
+        "stars": 4.6,
+        "price": 18.99,
+        "prime": 1,
+        "subscribe": "Save 5% more with Subscribe & save",
+        "free": "FREE One-Day",
+        "video":0
+    },
+    {
+        "title":"Coca Cola Films",
+        "image":"./assets/img/2.JPG",
+        "stars":5,
+        "price":35,
+        "prime": 0,
+        "subscribe": "WHOLE FOODS MARKET FREE 2-hour delivery",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 12",
+        "image": "./assets/img/3.JPG",
+        "stars": 4,
+        "price": 32,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 13",
+        "image": "./assets/img/4.JPG",
+        "stars": 4.5,
+        "price": 33,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    }, {
+        "title": "product 14",
+        "image": "./assets/img/5.JPG",
+        "stars": 4.2,
+        "price": 34,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 15",
+        "image": "./assets/img/6.JPG",
+        "stars": 3.6,
+        "price": 35,
+        "prime": 0,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 16",
+        "image": "./assets/img/7.JPG",
+        "stars": 3.3,
+        "price": 25,
+        "prime": 0,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 17",
+        "image": "./assets/img/8.JPG",
+        "stars": 4.6,
+        "price": 54,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 18",
+        "image": "./assets/img/1.JPG",
+        "stars": 3.6,
+        "price": 89,
+        "prime": 0,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    },
+    {
+        "title": "product 19",
+        "image": "./assets/img/2.JPG",
+        "stars": 3.5,
+        "price": 34,
+        "prime": 1,
+        "subscribe": "save % more with Subscribe & save",
+        "free": "Free One-Day",
+        "video": 0
+    }
+]
